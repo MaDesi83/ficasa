@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+#content-main{
+	clear: both;
+}
+.left{
+	width: 150px;
+}
